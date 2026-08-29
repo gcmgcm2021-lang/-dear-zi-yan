@@ -1,0 +1,1 @@
+window.CABBAGE_IMAGES=window.CABBAGE_IMAGES||{};window.CABBAGE_IMAGES['02-premium']=window.CABBAGE_IMAGES['01-packshot'];
