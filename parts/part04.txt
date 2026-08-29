@@ -1,0 +1,118 @@
+iv>
+        <div class="arch-layer"><strong><span>50% 底盤｜臣</span><span>水解纖維</span></strong><p>承接配方重量與結構；Mass ≠ Hero Ingredient。</p></div>
+        <div class="arch-layer"><strong><span>8% 支持｜佐</span><span>3 Botanicals</span></strong><p>紅薑黃、秋葵、牛蒡補足植物配伍層次。</p></div>
+        <div class="arch-layer"><strong><span>2% 收束｜使</span><span>SPY-1</span></strong><p>讓植物語言收束，回到全食物型協調系統。</p></div>
+      </div>
+      <div class="quote">結構不是堆料，而是有方向的設計。</div>
+    </div>
+    <div class="media">
+      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="08-structure" alt="Cabbage 植粹膠囊 Formula Architecture B2B 提案視覺（使用你提供的結構圖）">
+    </div>
+  </div>
+</section>
+
+<section class="section section-light" id="s5">
+  <div class="container two">
+    <div class="media"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="04-jun" alt="S-Cabbage 高麗菜濃縮粉核心原料（使用你提供的君藥圖）"></div>
+    <div>
+      <span class="kicker">04 / Jun — Hero Ingredient</span>
+      <h2>君藥設定：<br>S-Cabbage 高麗菜濃縮粉</h2>
+      <p><strong>配方占比：</strong>40%｜每顆 200 mg｜每日 600 mg</p>
+      <p><strong>角色：</strong>承擔整個產品的核心辨識與 Formula DNA。</p>
+      <div><span class="pill">NDS 製程*</span><span class="pill">Vitamin U 8–12%*</span><span class="pill">Hero Ingredient</span></div>
+      <div class="quote">君藥定主軸，配方才有方向。</div>
+      <div class="warning"><strong>Evidence Firewall：</strong>Ingredient ≠ Marker ≠ Clinical Intervention。*NDS 與 Vitamin U 數值目前屬供應商規格／技術線索，正式批次仍待 COA 與 assay 確認。</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-soft" id="s6">
+  <div class="container two">
+    <div>
+      <span class="kicker">05 / Chen — Structural Foundation</span>
+      <h2>臣藥設定：<br>水解纖維</h2>
+      <p><strong>配方占比：</strong>50%｜每顆 250 mg｜每日 750 mg</p>
+      <p><strong>角色：</strong>配方結構底盤。重量最大，不代表商品主角。</p>
+      <div class="quote">Mass ≠ Hero Ingredient.</div>
+      <div class="warning">目前優先任務是確認正式食品原料名稱、來源、加工方式與分子量；不自行套用一般益生元、菌相或 SCFA 等未確認機制。</div>
+    </div>
+    <div class="media"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="05-chen" alt="水解纖維配方底盤視覺"></div>
+  </div>
+</section>
+
+<section class="section section-light" id="s7">
+  <div class="container two">
+    <div class="media"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="06-zuo" alt="紅薑黃、秋葵、牛蒡多原料植物技術視覺（使用你提供的佐藥圖）"></div>
+    <div>
+      <span class="kicker">06 / Zuo — Multi-Technology Botanicals</span>
+      <h2>佐藥設定：<br>三種植物各守其位。</h2>
+      <div class="cards">
+        <div class="card"><h3>PRC 紅薑黃</h3><p><strong>20 mg／顆</strong></p><p>提供植化素研究脈絡與技術素材；Supplier 載有國際發明獎與專利資訊。</p></div>
+        <div class="card"><h3>SOR-10 秋葵</h3><p><strong>10 mg／顆</strong></p><p>20:1、≥20% 多醣，採超音波萃取技術*</p></div>
+        <div class="card"><h3>牛蒡</h3><p><strong>10 mg／顆</strong></p><p>植物纖維與植化素配伍；具超音波萃取技術資料*</p></div>
+      </div>
+      <div class="quote">佐藥不搶主角，而是替配方補上層次。</div>
+      <div class="warning">三者合計 8%。*規格、專利與獎項正式對外使用前仍需完整文件／COA 確認。</div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-soft" id="s8">
+  <div class="container two">
+    <div>
+      <span class="kicker">07 / Shi — Formula Integration</span>
+      <h2>使藥設定：<br>SPY-1 紫山藥</h2>
+      <p><strong>配方占比：</strong>2%｜每顆 10 mg｜每日 30 mg</p>
+      <p><strong>角色：</strong>全食物型語言與配伍協調，承接花青素與膳食纖維的食物型素材脈絡。</p>
+      <p>本案不強調「直達病灶」或治療作用，而以研發結構中的方向性、收束與協調作為「使」的現代食品配方轉譯。</p>
+      <div class="quote">使藥牽引全局，讓配伍回到日常協調。</div>
+    </div>
+    <div class="media"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="07-shi" alt="SPY-1 紫山藥配伍收束視覺（使用你提供的使藥圖）"></div>
+  </div>
+</section>
+
+<section class="section section-light" id="s9">
+  <div class="container">
+    <span class="kicker">08 / Technical Specs & Evidence Transparency</span>
+    <h2>技術規格與<br>Evidence Transparency</h2>
+    <p class="lead">B2B 決策不只看亮點，也要看商品化前還缺哪些驗證。這一區直接分成「What We Have」與「What We Need」。</p>
+    <div class="two">
+      <div>
+        <div class="spec-grid">
+          <div class="spec-box">
+            <h3>What We Have｜核心技術亮點</h3>
+            <div class="spec-list">
+              <div>NDS 蛋白質胜肽載體製程*</div>
+              <div>秋葵、牛蒡超音波萃取技術*</div>
+              <div>SOR-10：20:1、≥20% 多醣*</div>
+              <div>PRC：供應商所載專利／國際發明獎資料*</div>
+            </div>
+          </div>
+          <div class="spec-box pending">
+            <h3>What We Need｜量產前待驗證</h3>
+            <div class="spec-list">
+              <div>批次 COA 與 Vitamin U／SMM assay</div>
+              <div>Particle size 與含水量</div>
+              <div>Bulk density 與膠囊充填測試</div>
+              <div>成品穩定性與包材防潮測試</div>
+            </div>
+          </div>
+        </div>
+        <div class="warning">*供應商資料是技術／規格來源，不直接等同人體臨床證據。這也是本案 Evidence Transparency 的核心原則。</div>
+      </div>
+      <div class="media"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="09-tech" alt="技術規格與 COA 研發確認視覺（使用你提供的技術規格圖）"></div>
+    </div>
+    <div class="quote">規格，讓原料從故事走向真正可量產的產品。</div>
+  </div>
+</section>
+
+<section class="section section-soft" id="s10">
+  <div class="container">
+    <span class="kicker">09 / Formula Ratio Lock & Safety Boundary</span>
+    <h2>配方比例鎖定<br>與安全邊界。</h2>
+    <div class="ratio-grid">
+      <div class="donut" aria-label="配方比例：高麗菜40%、纖維50%、佐8%、使2%"></div>
+      <div>
+        <div class="legend">
+          <div class="legend-item"><span class="dot" style="background:#5ee0ca"></span><span><strong>君 40%</strong>｜S-Cabbage 200 mg</span><strong>600 mg/day</strong></div>
+          <div class="legend-item"><span class="dot" style="background:#b7d5cd"></span><span><strong>臣 50%</strong>｜水解纖維 25
