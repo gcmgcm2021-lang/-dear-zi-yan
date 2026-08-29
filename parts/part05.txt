@@ -1,0 +1,96 @@
+0 mg</span><strong>750 mg/day</strong></div>
+          <div class="legend-item"><span class="dot" style="background:#d7a65b"></span><span><strong>佐 8%</strong>｜PRC 20 + SOR-10 10 + 牛蒡 10 mg</span><strong>120 mg/day</strong></div>
+          <div class="legend-item"><span class="dot" style="background:#8e6bb7"></span><span><strong>使 2%</strong>｜SPY-1 10 mg</span><strong>30 mg/day</strong></div>
+        </div>
+        <div class="warning"><strong>Safety Boundary：</strong>初篩未命中典型高風險警語原料，但不代表完成正式法規審查。預設一般食品路線，不自行宣稱健康食品核准功效。</div>
+      </div>
+    </div>
+
+    <div class="table-wrap" style="margin-top:28px">
+      <table>
+        <thead><tr><th>成分</th><th>每顆</th><th>每日</th><th>比例</th><th>目前法規／規格狀態</th></tr></thead>
+        <tbody>
+          <tr><td>S-Cabbage</td><td>200 mg</td><td>600 mg</td><td>40%</td><td>Vitamin U／NDS 規格線索待正式 COA／文件確認</td></tr>
+          <tr><td>水解纖維</td><td>250 mg</td><td>750 mg</td><td>50%</td><td>正式原料身分為優先查核項目</td></tr>
+          <tr><td>PRC 紅薑黃</td><td>20 mg</td><td>60 mg</td><td>4%</td><td>原料型態、專利與獎項文件待確認</td></tr>
+          <tr><td>SOR-10 秋葵</td><td>10 mg</td><td>30 mg</td><td>2%</td><td>20:1／多醣／超音波規格待批次 COA</td></tr>
+          <tr><td>牛蒡</td><td>10 mg</td><td>30 mg</td><td>2%</td><td>S-PAL／ALI 實際版本待確認</td></tr>
+          <tr><td>SPY-1 紫山藥</td><td>10 mg</td><td>30 mg</td><td>2%</td><td>正式規格與指標成分待確認</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="quote">比例是設計，警語是邊界。</div>
+  </div>
+</section>
+
+<section class="section section-dark" id="s11">
+  <div class="container">
+    <span class="kicker">10 / The Market Matrix</span>
+    <h2>市場差異化對比。</h2>
+    <p class="lead">市場已存在高麗菜、Vitamin U、NDS 等溝通。差異不再只是「我也有」，而是「我如何設計」。</p>
+    <div class="usp-grid">
+      <div class="usp-card"><small class="gold">CORE USP 01</small><h3>Formula Architecture</h3><p>不是拼成分多寡，而是擁有 40–50–8–2 的固定配方藍圖與角色分工。</p></div>
+      <div class="usp-card"><small class="gold">CORE USP 02</small><h3>Multi-Technology</h3><p>Vitamin U 規格、NDS、雙超音波萃取、多醣規格被放進同一研發系統。</p></div>
+      <div class="usp-card"><small class="gold">CORE USP 03</small><h3>Evidence Transparency</h3><p>人體研究、前臨床、供應商規格與研發假設分層管理，不混淆證據層級。</p></div>
+    </div>
+    <div class="quote">差異不是說出來的，是被比較後看見的。</div>
+  </div>
+</section>
+
+<section class="section section-light" id="s12">
+  <div class="container">
+    <span class="kicker">11 / Commercial Defense</span>
+    <h2>消費者 FAQ<br>與銷售溝通。</h2>
+    <div class="feature-faq">
+      <div class="feature-q"><strong>Q：適合哪些人？</strong><p>A：外食比例高、三餐不固定，或希望把植物來源日常營養補充融入生活的成年人。</p></div>
+      <div class="feature-q"><strong>Q：一天吃幾顆？</strong><p>A：目前設定每日 3 顆，共 1,500 mg；一盒 90 顆約為 30 日份。</p></div>
+      <div class="feature-q"><strong>Q：和市售產品差在哪？</strong><p>A：差異不在成分放很多，而在高麗菜是核心、各層原料有明確角色與技術來源。</p></div>
+    </div>
+    <div class="faq-list">
+      <details><summary>Cabbage 植粹膠囊適合哪些人？</summary><div class="answer">比較適合平常外食比例高、三餐時間不固定，或希望把植物來源營養補充融入日常生活的成年人。產品定位不是針對特定疾病；如已有明確不舒服、疾病診斷或正在接受治療，仍應先由醫療專業人員評估。</div></details>
+      <details><summary>什麼時候吃比較適合？一定要飯前或飯後嗎？</summary><div class="answer">目前研發資料沒有設定一定要飯前或飯後食用，可以選擇較容易持續記得的時間補充；正式上市後仍以最終產品標示為準。</div></details>
+      <details><summary>一天要吃幾顆？一盒可以吃多久？</summary><div class="answer">目前配方設定每日 3 顆，每顆內容物 500 mg，每日總攝取量 1,500 mg；主力包裝 90 顆／盒，約 30 日份。</div></details>
+      <details><summary>這款膠囊的成分特色是什麼？</summary><div class="answer">特色不是「成分放很多」，而是每一層原料都有配方角色：S-Cabbage 高麗菜為核心、水解纖維為底盤，再搭配紅薑黃、秋葵、牛蒡與紫山藥。</div></details>
+      <details><summary>哪些人食用前應該先注意？</summary><div class="answer">懷孕或哺乳期間、慢性疾病患者、長期服用藥物者，或本身有特殊過敏與健康狀況者，建議食用前先詢問醫師、藥師或營養師。</div></details>
+      <details><summary>Cabbage 植粹膠囊和市售高麗菜或 Vitamin U 產品有什麼不同？</summary><div class="answer">差異不在宣稱只有本案有高麗菜或 Vitamin U，而在 Formula Architecture 與 Evidence Transparency：高麗菜是配方核心，纖維形成底盤，植物配伍層有清楚角色，並將不同證據層級分開管理。</div></details>
+    </div>
+    <div class="quote">好的 FAQ，是替品牌先回答消費者的猶豫。</div>
+  </div>
+</section>
+
+<section class="section section-soft" id="s13">
+  <div class="container two">
+    <div>
+      <span class="kicker">12 / Proposal Attribution</span>
+      <h2>提案權責<br>與研發邊界。</h2>
+      <div class="contact-card">
+        <h3>元弘草本科研股份有限公司</h3>
+        <div class="contact-lines">
+          <div><strong>提案製作：</strong>元弘草本科研部</div>
+          <div><strong>地址：</strong>404 臺中市北區頂厝里崇德路一段631號14樓-2</div>
+          <div><strong>電話：</strong>04-2238-8080</div>
+          <div><strong>官網：</strong><a href="https://www.biomed.com.tw/" target="_blank" rel="noopener">www.biomed.com.tw</a></div>
+        </div>
+        <div class="buttons"><a class="btn btn-primary" href="https://www.biomed.com.tw/" target="_blank" rel="noopener">了解商品研發合作</a></div>
+      </div>
+    </div>
+    <div>
+      <h3>研發與法規邊界</h3>
+      <p>本報告為 B2B 產品開發與商務評估參考，不作為醫療建議、疾病治療宣稱或最終法規標示依據。</p>
+      <p>最終原料規格、配方、標示、宣稱、警語、包裝與上市內容，仍需依正式 COA、代工生產條件、品質管理與最新食品相關法規確認。</p>
+      <p>供應商所提供之專利、製程、指標成分、研究及獲獎資料，應依正式證明文件確認後再決定對外呈現方式。</p>
+      <div class="quote">清楚的署名，是專業合作的開始。</div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-dark" id="s14">
+  <div class="container">
+    <span class="kicker">13 / Commercialization Roadmap</span>
+    <h2>下一步：<br>從研發藍圖邁向商品化。</h2>
+    <p class="lead">本案已完成定位、Formula Architecture、技術規格整理、比例展開、市場差異與溝通素材。下一階段，是把「可被理解」轉成「可被量產與上市評估」。</p>
+    <div class="roadmap">
+      <div class="road"><span class="num">01</span><b>規格確認</b><span>COA／Assay 數值確認</span></div>
+      <div class="road"><span class="num">02</span><b>打樣評估</b><span>Bulk Density／膠囊充填測試</span></div>
+      <div class="road"><span class="num">03</span><b>成本核算</b><span>MOQ／BOM／毛利結構</span></div>
+     
