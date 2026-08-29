@@ -1,0 +1,51 @@
+ <div class="road"><span class="num">04</span><b>包裝設計</b><span>防潮瓶＋紙盒／B2B 規格</span></div>
+      <div class="road"><span class="num">05</span><b>法規審查</b><span>正式上市標示與文字確認</span></div>
+    </div>
+    <div class="media" style="max-width:820px;margin:42px auto 0"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="02-premium" alt="Cabbage 植粹膠囊精品商品主視覺"></div>
+    <div class="quote" style="max-width:800px;margin:30px auto 0;text-align:center">讓好配方被看懂，才有機會走進市場。</div>
+    <div class="buttons" style="justify-content:center"><a class="btn btn-primary" href="https://www.biomed.com.tw/" target="_blank" rel="noopener">與元弘草本科研討論下一步</a></div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div>© 2026 元弘草本科研生醫集團. All rights reserved.</div>
+    <div>本頁內容僅供保健食品研發、商品企劃與 B2B 商務提案參考，不作為醫療建議、疾病治療宣稱或最終法規標示依據。</div>
+    <div>本案依專案設定未使用影片、背景音樂與 Podcast 模組。</div>
+  </div>
+</footer>
+
+<script src="assets/01-packshot.js"></script>
+<script src="assets/02-premium.js"></script>
+<script src="assets/03-friendly.js"></script>
+<script src="assets/04-jun.js"></script>
+<script src="assets/05-chen.js"></script>
+<script src="assets/06-zuo.js"></script>
+<script src="assets/07-shi.js"></script>
+<script src="assets/08-structure.js"></script>
+<script src="assets/09-tech.js"></script>
+<script>window.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('img[data-img]').forEach(img=>{const k=img.dataset.img;if(window.CABBAGE_IMAGES&&window.CABBAGE_IMAGES[k])img.src=window.CABBAGE_IMAGES[k];});});</script>
+<script>
+const links=[...document.querySelectorAll('.navlinks a')];
+const secs=links.map(a=>document.querySelector(a.getAttribute('href'))).filter(Boolean);
+const io=new IntersectionObserver(entries=>{
+  entries.forEach(e=>{
+    if(!e.isIntersecting)return;
+    links.forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+e.target.id));
+  });
+},{rootMargin:'-28% 0px -62% 0px',threshold:0});
+secs.forEach(s=>io.observe(s));
+
+document.querySelectorAll('.media img').forEach(img=>{
+  img.addEventListener('error',()=>{
+    const d=document.createElement('div');
+    d.style.cssText='min-height:260px;display:grid;place-items:center;text-align:center;padding:20px;border:1px dashed #9bbeb4;border-radius:16px;background:#f6fbf9;color:#53635d';
+    d.innerHTML='<strong>圖片待置入</strong><br>'+img.alt;
+    img.replaceWith(d);
+  })
+});
+</script>
+</body>
+</html>
