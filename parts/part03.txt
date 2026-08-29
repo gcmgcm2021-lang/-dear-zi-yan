@@ -1,0 +1,134 @@
+ation",
+      "@id":"https://www.biomed.com.tw/#organization",
+      "name":"元弘草本科研股份有限公司",
+      "url":"https://www.biomed.com.tw/",
+      "telephone":"+886-4-2238-8080",
+      "address":{
+        "@type":"PostalAddress",
+        "postalCode":"404",
+        "addressRegion":"臺中市",
+        "addressLocality":"北區",
+        "streetAddress":"頂厝里崇德路一段631號14樓-2",
+        "addressCountry":"TW"
+      }
+    },
+    {
+      "@type":"WebPage",
+      "@id":"https://gcmgcm2021-lang.github.io/-dear-zi-yan/#webpage",
+      "url":"https://gcmgcm2021-lang.github.io/-dear-zi-yan/",
+      "name":"Cabbage 植粹膠囊｜植物型日常營養配方研發與 B2B 商品提案",
+      "description":"Cabbage 植粹膠囊以高麗菜為核心，結合纖維底盤與植物配伍，建立有結構、有規格、有技術來源的植物型日常營養配方與 B2B 商品研發提案。",
+      "datePublished":"2026-08-30",
+      "dateModified":"2026-08-30",
+      "inLanguage":"zh-TW",
+      "publisher":{"@id":"https://www.biomed.com.tw/#organization"},
+      "mainEntity":{"@id":"https://gcmgcm2021-lang.github.io/-dear-zi-yan/#product"}
+    },
+    {
+      "@type":"Product",
+      "@id":"https://gcmgcm2021-lang.github.io/-dear-zi-yan/#product",
+      "name":"Cabbage 植粹膠囊",
+      "alternateName":"Cabbage Botanical Capsule",
+      "description":"以 S-Cabbage 高麗菜濃縮粉為核心，搭配水解纖維、PRC 紅薑黃、SOR-10 秋葵、牛蒡與 SPY-1 紫山藥設計的植物型日常營養膠囊。",
+      "category":"植物型日常營養膠囊／保健食品研發提案",
+      "manufacturer":{"@id":"https://www.biomed.com.tw/#organization"},
+      "additionalProperty":[
+        {"@type":"PropertyValue","name":"劑型","value":"膠囊"},
+        {"@type":"PropertyValue","name":"每顆內容物","value":"500 mg"},
+        {"@type":"PropertyValue","name":"每日建議食用量","value":"3 顆"},
+        {"@type":"PropertyValue","name":"主力包裝","value":"90 顆／30 日份"},
+        {"@type":"PropertyValue","name":"Formula Architecture","value":"40% 高麗菜核心、50% 纖維底盤、8% 植物支持層、2% 紫山藥配伍收束"}
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="container nav">
+    <a class="brand" href="#s1">Cabbage 植粹膠囊</a>
+    <nav class="navlinks">
+      <a href="#s2">商品</a><a href="#s3">需求</a><a href="#s4">架構</a>
+      <a href="#s5">君</a><a href="#s6">臣</a><a href="#s7">佐</a><a href="#s8">使</a>
+      <a href="#s9">規格</a><a href="#s10">比例</a><a href="#s11">市場</a>
+      <a href="#s12">FAQ</a><a href="#s13">權責</a><a href="#s14">下一步</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+<section class="hero" id="s1">
+  <div class="container hero-grid">
+    <div>
+      <span class="hero-badge">B2B R&D PRODUCT PROPOSAL</span>
+      <h1>Cabbage<br><span class="green">植粹膠囊</span></h1>
+      <p class="lead">植物型日常營養配方研發提案——從高麗菜核心，到可被品牌理解、可被規格化、可進入商品化討論的 B2B 開發方案。</p>
+      <div class="buttons">
+        <a class="btn btn-primary" href="#s4">先看 Formula Architecture</a>
+        <a class="btn btn-outline" href="https://www.biomed.com.tw/" target="_blank" rel="noopener">洽詢商品開發</a>
+      </div>
+      <div class="hero-meta">
+        <div><strong>提案單位</strong>元弘草本科研股份有限公司</div>
+        <div><strong>提案製作</strong>元弘草本科研部</div>
+        <div><strong>提案對象</strong>品牌業主／B2B 商品開發決策者</div>
+      </div>
+    </div>
+    <div class="media">
+      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="02-premium" alt="Cabbage 植粹膠囊精品版情境主視覺">
+      <div class="media-caption">已整合你提供的商品精品版圖｜完整原圖比例呈現</div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-light" id="s2">
+  <div class="container two">
+    <div class="media">
+      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="01-packshot" alt="Cabbage 植粹膠囊商品主視覺（整合你提供的商品圖片）">
+    </div>
+    <div>
+      <span class="kicker">01 / Brand Memory Architecture</span>
+      <h2>讓高麗菜成為<br>商品記憶核心。</h2>
+      <p class="lead">產品被記住的第一件事是「高麗菜」，而不是把 Vitamin U 或多個技術詞塞進商品名稱。</p>
+      <div class="cards">
+        <div class="card"><small>Hero Recognition</small><h3>Cabbage</h3><p>建立高麗菜核心原料辨識。</p></div>
+        <div class="card"><small>Brand Language</small><h3>植粹</h3><p>保留植物精粹與精品科研感。</p></div>
+        <div class="card"><small>Format</small><h3>膠囊</h3><p>清楚標示 500 mg 日常補充形式。</p></div>
+      </div>
+      <div class="quote">名字不是裝飾，是商品被記住的第一步。</div>
+      <div class="warning">命名初篩屬較低風險方向；正式上線仍需完成商標近似檢索與包裝整體文字法規審查。</div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-soft" id="s3">
+  <div class="container">
+    <span class="kicker">02 / From Need to Commercial Spec</span>
+    <h2>從需求推導規格：<br>每日可執行的營養藍圖。</h2>
+    <div class="two">
+      <div class="media">
+        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-img="03-friendly" alt="Cabbage 植粹膠囊日常使用情境（使用你提供的生活版圖片）">
+      </div>
+      <div>
+        <div class="flow">
+          <div class="flow-item"><span class="step">STEP 1</span><h3>Target & Pain Points</h3><p>外食、三餐時間不固定、咖啡與聚餐頻率較高。</p></div>
+          <div class="flow-item"><span class="step">STEP 2</span><h3>Format Strategy</h3><p>500 mg 膠囊，每日 3 顆，共 1,500 mg。</p></div>
+          <div class="flow-item"><span class="step">STEP 3</span><h3>Commercial Specs</h3><p>90 顆／30 日份，防潮膠囊瓶＋草本生醫紙盒。</p></div>
+        </div>
+        <div class="quote">產品不是從成分開始，而是從需求開始。</div>
+        <p><strong>價格定位：</strong>中階～中高階；精準售價待 BOM、MOQ、包材與代工成本確認。</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section-dark" id="s4">
+  <div class="container arch-wrap">
+    <div>
+      <span class="kicker">03 / Formula Architecture</span>
+      <h2>精密計算的<br>配方結構。</h2>
+      <p class="lead">先看懂整座建築，再走進每一層。Cabbage 植粹膠囊採固定 Ratio Lock：40／50／8／2。</p>
+      <div class="arch-stack">
+        <div class="arch-layer"><strong><span>40% 核心｜君</span><span>S-Cabbage</span></strong><p>建立商品辨識與 Formula DNA。</p></d
